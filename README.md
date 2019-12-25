@@ -1,5 +1,7 @@
 # STRANDED - a text-based adventure game
 
+![Screen Shot 2019-12-25 at 8 13 53 AM](https://user-images.githubusercontent.com/42521054/71446950-b50fb980-26ee-11ea-9872-58c84209fd98.png)
+
 STRANDED is a narrative text-based game that features the Butterfly Effect: every decision you make in the game has its consequence and will dictate your outcome/ending. 
 
 Synopsis: your younger brother wakes up on a stranded island due to a stupid mistake. As you are on the phone with him, you must guide him through making a number of decisions to prolong your brother's life, until he is spotted and rescued. 
